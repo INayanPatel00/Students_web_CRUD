@@ -1,0 +1,1489 @@
+[INFO ] 2023-06-13 15:59:07.045 [main] Main - Starting Main using Java 19.0.1 with PID 21756 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 15:59:07.054 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 15:59:07.057 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 15:59:53.768 [main] Main - Starting Main using Java 19.0.1 with PID 1616 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 15:59:53.782 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 15:59:53.784 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 16:00:09.418 [main] Main - Started Main in 16.677 seconds (process running for 18.722)
+[INFO ] 2023-06-13 16:00:59.695 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:00:59.698 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:01:00.351 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:01:00.357 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:03:25.722 [http-nio-8080-exec-3] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:03:25.723 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:03:25.750 [http-nio-8080-exec-3] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:03:25.750 [http-nio-8080-exec-3] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:26:07.664 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:26:07.748 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:26:08.062 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:26:08.062 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:37:16.296 [main] Main - Starting Main using Java 19.0.1 with PID 9320 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 16:37:16.340 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 16:37:16.363 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 16:37:33.824 [main] Main - Started Main in 19.467 seconds (process running for 23.259)
+[INFO ] 2023-06-13 16:37:42.375 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:37:42.377 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:37:42.895 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:37:42.905 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:41:15.954 [http-nio-8080-exec-5] DepartmentResource - Entered into getAllDepartment Method
+[INFO ] 2023-06-13 16:41:15.978 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into getAllDepartment method
+[INFO ] 2023-06-13 16:41:15.979 [http-nio-8080-exec-5] DepartmentServiceImpl - fetching the list of  Department
+[INFO ] 2023-06-13 16:41:16.522 [http-nio-8080-exec-5] DepartmentServiceImpl - Department fetched successfully
+[INFO ] 2023-06-13 16:41:41.768 [http-nio-8080-exec-9] SubjectResource - Entered into getAllSubject Method
+[INFO ] 2023-06-13 16:41:41.769 [http-nio-8080-exec-9] SubjectService - Entered into getAllSubject method
+[INFO ] 2023-06-13 16:41:41.771 [http-nio-8080-exec-9] SubjectService - fetching the list of Subject
+[INFO ] 2023-06-13 16:41:41.941 [http-nio-8080-exec-9] SubjectService - Subject Fetched Successfully
+[INFO ] 2023-06-13 16:42:04.392 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:42:04.396 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:42:04.452 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:42:04.452 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:48:52.208 [main] Main - Starting Main using Java 19.0.1 with PID 18696 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 16:48:52.221 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 16:48:52.231 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 16:49:07.050 [main] Main - Started Main in 16.156 seconds (process running for 18.706)
+[INFO ] 2023-06-13 16:49:13.441 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:49:13.444 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:49:14.078 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:49:14.089 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:50:03.731 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:50:03.733 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:50:03.758 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:50:03.759 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:51:41.189 [http-nio-8080-exec-9] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 16:51:41.189 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 16:51:41.212 [http-nio-8080-exec-9] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 16:51:41.212 [http-nio-8080-exec-9] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 16:52:00.546 [http-nio-8080-exec-10] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-13 16:52:00.546 [http-nio-8080-exec-10] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-13 17:27:10.364 [main] Main - Starting Main using Java 19.0.1 with PID 19264 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:27:10.390 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:27:10.397 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:27:40.020 [main] Main - Started Main in 33.062 seconds (process running for 38.797)
+[INFO ] 2023-06-13 17:27:49.161 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:35:21.982 [main] Main - Starting Main using Java 19.0.1 with PID 312 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:35:21.996 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:35:22.000 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:35:57.117 [main] Main - Started Main in 37.425 seconds (process running for 44.279)
+[INFO ] 2023-06-13 17:36:02.767 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:36:05.733 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:36:09.791 [http-nio-8080-exec-7] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:38:56.154 [main] Main - Starting Main using Java 19.0.1 with PID 18004 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:38:56.166 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:38:56.171 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:39:25.034 [main] Main - Started Main in 31.053 seconds (process running for 35.548)
+[INFO ] 2023-06-13 17:39:30.452 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:39:32.764 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:39:33.703 [http-nio-8080-exec-9] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:39:33.893 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:39:34.300 [http-nio-8080-exec-3] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:39:34.501 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:41:09.202 [main] Main - Starting Main using Java 19.0.1 with PID 1568 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:41:09.216 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:41:09.223 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:41:47.205 [main] Main - Started Main in 40.84 seconds (process running for 46.099)
+[INFO ] 2023-06-13 17:41:53.154 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:41:56.080 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:41:59.639 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:42:00.594 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:44:48.944 [main] Main - Starting Main using Java 19.0.1 with PID 13784 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:44:48.980 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:44:48.985 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:45:24.436 [main] Main - Started Main in 38.066 seconds (process running for 44.313)
+[INFO ] 2023-06-13 17:45:59.618 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:46:05.938 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:51:18.133 [main] Main - Starting Main using Java 19.0.1 with PID 5656 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:51:18.152 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:51:18.156 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:51:56.266 [main] Main - Started Main in 41.287 seconds (process running for 46.821)
+[INFO ] 2023-06-13 17:52:03.816 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:52:05.409 [http-nio-8080-exec-3] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:52:07.789 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:54:35.966 [main] Main - Starting Main using Java 19.0.1 with PID 15300 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 17:54:35.982 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 17:54:35.985 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 17:55:07.915 [main] Main - Started Main in 34.148 seconds (process running for 41.158)
+[INFO ] 2023-06-13 17:55:14.422 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:55:19.311 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 17:55:20.410 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:00:27.376 [main] Main - Starting Main using Java 19.0.1 with PID 9848 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:00:27.397 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:00:27.401 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:00:58.050 [main] Main - Started Main in 32.616 seconds (process running for 38.227)
+[INFO ] 2023-06-13 18:01:05.669 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:01:05.673 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:01:06.609 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:01:06.631 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:01:09.017 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:01:09.017 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:01:09.173 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:01:09.174 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:02:22.851 [main] Main - Starting Main using Java 19.0.1 with PID 21228 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:02:22.867 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:02:22.872 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:02:52.029 [main] Main - Started Main in 31.553 seconds (process running for 38.219)
+[INFO ] 2023-06-13 18:03:17.266 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:03:17.279 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:03:18.305 [http-nio-8080-exec-4] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:03:18.397 [http-nio-8080-exec-4] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:03:24.268 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:03:24.269 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:03:24.312 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:03:24.312 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:04:42.029 [main] Main - Starting Main using Java 19.0.1 with PID 19168 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:04:42.045 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:04:42.050 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:05:13.703 [main] Main - Started Main in 34.637 seconds (process running for 39.508)
+[INFO ] 2023-06-13 18:05:19.858 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:05:19.862 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:05:20.946 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:05:20.981 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:06:06.941 [main] Main - Starting Main using Java 19.0.1 with PID 20112 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:06:07.107 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:06:07.128 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:06:40.936 [main] Main - Started Main in 36.154 seconds (process running for 48.89)
+[INFO ] 2023-06-13 18:07:02.207 [http-nio-8080-exec-3] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:07:02.210 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:07:02.778 [http-nio-8080-exec-3] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:07:02.792 [http-nio-8080-exec-3] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:07:30.268 [main] Main - Starting Main using Java 19.0.1 with PID 8584 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:07:30.316 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:07:30.324 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:08:00.781 [main] Main - Started Main in 33.187 seconds (process running for 39.736)
+[INFO ] 2023-06-13 18:08:11.810 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:08:11.813 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:08:12.360 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:08:12.376 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:08:56.196 [main] Main - Starting Main using Java 19.0.1 with PID 8112 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:08:56.212 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:08:56.218 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:09:31.313 [main] Main - Started Main in 37.328 seconds (process running for 43.141)
+[INFO ] 2023-06-13 18:09:56.738 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:09:56.743 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:09:58.232 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:09:58.252 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:16:37.700 [main] Main - Starting Main using Java 19.0.1 with PID 5088 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:16:37.729 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:16:37.737 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:17:11.083 [main] Main - Started Main in 35.746 seconds (process running for 41.329)
+[INFO ] 2023-06-13 18:17:24.347 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:17:24.354 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:17:24.849 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:17:24.860 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:19:08.837 [main] Main - Starting Main using Java 19.0.1 with PID 13908 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:19:08.858 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:19:08.869 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:19:42.345 [main] Main - Started Main in 35.566 seconds (process running for 42.481)
+[INFO ] 2023-06-13 18:20:03.905 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:20:03.909 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:20:04.726 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:20:04.742 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:20:15.045 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:20:15.047 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:20:15.097 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:20:15.097 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:21:22.826 [main] Main - Starting Main using Java 19.0.1 with PID 8712 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:21:22.859 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:21:22.868 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:21:54.227 [main] Main - Started Main in 33.195 seconds (process running for 37.69)
+[INFO ] 2023-06-13 18:22:03.065 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:22:03.068 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:22:03.678 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:22:03.695 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:29:19.794 [main] Main - Starting Main using Java 19.0.1 with PID 22264 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:29:19.805 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:29:19.809 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:29:42.667 [main] Main - Started Main in 23.967 seconds (process running for 27.364)
+[INFO ] 2023-06-13 18:30:04.419 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:30:04.426 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:30:05.094 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:30:05.107 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:32:39.611 [main] Main - Starting Main using Java 19.0.1 with PID 22724 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:32:39.626 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:32:39.629 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:32:57.194 [main] Main - Started Main in 18.677 seconds (process running for 21.651)
+[INFO ] 2023-06-13 18:33:10.080 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:33:10.088 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:33:10.964 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:33:10.979 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:34:00.295 [main] Main - Starting Main using Java 19.0.1 with PID 21076 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:34:00.316 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:34:00.328 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:34:17.360 [main] Main - Started Main in 18.11 seconds (process running for 20.775)
+[INFO ] 2023-06-13 18:34:39.860 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:34:39.865 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:34:40.337 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:34:40.350 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:36:16.277 [main] Main - Starting Main using Java 19.0.1 with PID 11300 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:36:16.288 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:36:16.291 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:36:32.041 [main] Main - Started Main in 16.93 seconds (process running for 19.6)
+[INFO ] 2023-06-13 18:36:42.772 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:36:42.774 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:36:43.147 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:36:43.157 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:44:37.170 [main] Main - Starting Main using Java 19.0.1 with PID 17252 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:44:37.184 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:44:37.194 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:44:55.197 [main] Main - Started Main in 19.142 seconds (process running for 21.889)
+[INFO ] 2023-06-13 18:45:42.320 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:45:42.327 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:45:42.913 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:45:42.932 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:45:56.712 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:45:56.712 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:45:56.737 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:45:56.737 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:46:46.452 [main] Main - Starting Main using Java 19.0.1 with PID 8252 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:46:46.469 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:46:46.480 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:47:02.421 [main] Main - Started Main in 17.017 seconds (process running for 20.059)
+[INFO ] 2023-06-13 18:47:46.176 [main] Main - Starting Main using Java 19.0.1 with PID 24172 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:47:46.186 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:47:46.190 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:48:03.022 [main] Main - Started Main in 17.922 seconds (process running for 20.838)
+[INFO ] 2023-06-13 18:48:08.934 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:48:08.941 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:48:09.375 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:48:09.380 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 18:48:53.840 [main] Main - Starting Main using Java 19.0.1 with PID 24100 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 18:48:53.876 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 18:48:53.890 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 18:49:10.540 [main] Main - Started Main in 17.783 seconds (process running for 20.483)
+[INFO ] 2023-06-13 18:49:20.389 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 18:49:20.397 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 18:49:20.928 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 18:49:20.967 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:03:19.684 [main] Main - Starting Main using Java 19.0.1 with PID 4684 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:03:19.700 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:03:19.702 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:03:35.638 [main] Main - Started Main in 17.011 seconds (process running for 19.706)
+[INFO ] 2023-06-13 19:03:46.337 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:03:46.344 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:03:47.050 [http-nio-8080-exec-4] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:03:47.056 [http-nio-8080-exec-4] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:04:47.739 [main] Main - Starting Main using Java 19.0.1 with PID 23540 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:04:47.751 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:04:47.754 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:05:04.340 [main] Main - Started Main in 17.645 seconds (process running for 20.684)
+[INFO ] 2023-06-13 19:05:10.171 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:05:10.175 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:05:10.610 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:05:10.616 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:09:11.045 [main] Main - Starting Main using Java 19.0.1 with PID 23616 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:09:11.072 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:09:11.087 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:09:27.360 [main] Main - Started Main in 17.948 seconds (process running for 20.834)
+[INFO ] 2023-06-13 19:09:34.313 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:09:34.315 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:09:34.680 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:09:34.690 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:11:21.632 [main] Main - Starting Main using Java 19.0.1 with PID 4260 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:11:21.647 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:11:21.653 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:11:38.813 [main] Main - Started Main in 18.278 seconds (process running for 20.894)
+[INFO ] 2023-06-13 19:11:51.765 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:11:51.771 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:11:52.301 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:11:52.316 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:13:13.157 [main] Main - Starting Main using Java 19.0.1 with PID 24404 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:13:13.168 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:13:13.170 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:13:28.878 [main] Main - Started Main in 16.825 seconds (process running for 19.835)
+[INFO ] 2023-06-13 19:13:35.389 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:13:35.392 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:13:35.721 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:13:35.726 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:17:09.191 [main] Main - Starting Main using Java 19.0.1 with PID 20440 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:17:09.202 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:17:09.206 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:17:23.015 [main] Main - Started Main in 15.057 seconds (process running for 17.783)
+[INFO ] 2023-06-13 19:17:31.761 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:17:31.763 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:17:32.333 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:17:32.350 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:19:03.996 [main] Main - Starting Main using Java 19.0.1 with PID 23188 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:19:04.012 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:19:04.022 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:19:20.588 [main] Main - Started Main in 17.644 seconds (process running for 20.494)
+[INFO ] 2023-06-13 19:19:26.992 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:19:26.994 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:19:27.455 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:19:27.463 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:19:27.579 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:19:27.579 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:19:27.654 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:19:27.654 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:21:10.407 [main] Main - Starting Main using Java 19.0.1 with PID 24092 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:21:10.416 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:21:10.419 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:21:25.252 [main] Main - Started Main in 15.9 seconds (process running for 18.484)
+[INFO ] 2023-06-13 19:21:33.736 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:21:33.739 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:21:34.169 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:21:34.179 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:22:13.723 [main] Main - Starting Main using Java 19.0.1 with PID 1460 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:22:13.740 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:22:13.743 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:22:29.809 [main] Main - Started Main in 17.453 seconds (process running for 20.113)
+[INFO ] 2023-06-13 19:22:47.230 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:22:47.233 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:22:47.537 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:22:47.544 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:22:47.900 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:22:47.900 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:22:47.932 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:22:47.932 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:24:11.156 [main] Main - Starting Main using Java 19.0.1 with PID 21404 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:24:11.167 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:24:11.178 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:24:25.778 [main] Main - Started Main in 15.741 seconds (process running for 18.429)
+[INFO ] 2023-06-13 19:25:10.172 [main] Main - Starting Main using Java 19.0.1 with PID 12436 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:25:10.182 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:25:10.186 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:25:28.737 [main] Main - Started Main in 19.634 seconds (process running for 22.443)
+[INFO ] 2023-06-13 19:25:34.914 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:25:34.917 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:25:35.319 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:25:35.325 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:26:36.246 [main] Main - Starting Main using Java 19.0.1 with PID 12176 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:26:36.276 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:26:36.287 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:26:50.980 [main] Main - Started Main in 15.798 seconds (process running for 18.649)
+[INFO ] 2023-06-13 19:26:58.065 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:26:58.067 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:26:58.411 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:26:58.412 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:26:58.542 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:26:58.548 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:26:58.551 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:26:58.551 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:29:01.742 [main] Main - Starting Main using Java 19.0.1 with PID 22624 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:29:01.764 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:29:01.774 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:29:18.332 [main] Main - Started Main in 17.595 seconds (process running for 20.226)
+[INFO ] 2023-06-13 19:29:25.820 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:29:25.820 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:29:26.254 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:29:26.272 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:32:23.540 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:32:23.548 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:32:23.630 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:32:23.631 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:32:38.297 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:32:38.297 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:32:38.321 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:32:38.321 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 19:34:58.390 [main] Main - Starting Main using Java 19.0.1 with PID 15440 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 19:34:58.416 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 19:34:58.426 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 19:35:16.041 [main] Main - Started Main in 18.942 seconds (process running for 21.542)
+[INFO ] 2023-06-13 19:35:24.753 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 19:35:24.764 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 19:35:25.095 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 19:35:25.095 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 20:44:59.529 [main] Main - Starting Main using Java 19.0.1 with PID 5512 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 20:44:59.536 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 20:44:59.538 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 20:45:09.464 [main] Main - Started Main in 10.717 seconds (process running for 13.493)
+[INFO ] 2023-06-13 20:45:27.870 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 20:45:27.872 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 20:45:28.199 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 20:45:28.205 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 20:45:42.961 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 20:45:42.961 [http-nio-8080-exec-8] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 20:45:42.977 [http-nio-8080-exec-8] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 20:45:42.977 [http-nio-8080-exec-8] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 20:47:33.334 [main] Main - Starting Main using Java 19.0.1 with PID 10948 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 20:47:33.342 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 20:47:33.347 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 20:47:42.669 [main] Main - Started Main in 9.969 seconds (process running for 11.616)
+[INFO ] 2023-06-13 20:52:44.404 [main] Main - Starting Main using Java 19.0.1 with PID 10252 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 20:52:44.409 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 20:52:44.411 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 20:52:52.043 [main] Main - Started Main in 8.277 seconds (process running for 9.871)
+[INFO ] 2023-06-13 20:53:09.319 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 20:53:09.320 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 20:53:09.556 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 20:53:09.560 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 20:53:09.851 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 20:53:09.851 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 20:53:09.881 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 20:53:09.882 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-13 21:00:58.877 [main] Main - Starting Main using Java 19.0.1 with PID 11632 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-13 21:00:58.884 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-13 21:00:58.886 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-13 21:01:08.106 [main] Main - Started Main in 9.849 seconds (process running for 11.424)
+[INFO ] 2023-06-13 21:01:28.759 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-13 21:01:28.760 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-13 21:01:28.932 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-13 21:01:28.936 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:35:00.581 [main] Main - Starting Main using Java 19.0.1 with PID 19092 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:35:00.590 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:35:00.592 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:35:08.910 [main] Main - Started Main in 8.888 seconds (process running for 10.66)
+[INFO ] 2023-06-14 18:35:55.034 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:35:55.038 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:35:55.525 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:35:55.531 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:41:42.810 [main] Main - Starting Main using Java 19.0.1 with PID 8952 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:41:42.817 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:41:42.819 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:41:51.754 [main] Main - Started Main in 9.576 seconds (process running for 11.425)
+[INFO ] 2023-06-14 18:41:58.277 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:41:58.279 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:41:58.619 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:41:58.630 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:43:33.213 [main] Main - Starting Main using Java 19.0.1 with PID 17112 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:43:33.218 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:43:33.220 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:43:41.689 [main] Main - Started Main in 9.072 seconds (process running for 10.577)
+[INFO ] 2023-06-14 18:43:52.079 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:43:52.082 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:43:52.396 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:43:52.403 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:46:12.453 [main] Main - Starting Main using Java 19.0.1 with PID 18204 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:46:12.458 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:46:12.460 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:46:21.315 [main] Main - Started Main in 9.417 seconds (process running for 10.965)
+[INFO ] 2023-06-14 18:46:37.831 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:46:37.832 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:46:38.267 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:46:38.279 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:49:12.731 [main] Main - Starting Main using Java 19.0.1 with PID 9224 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:49:12.738 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:49:12.741 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:49:22.632 [main] Main - Started Main in 10.548 seconds (process running for 12.552)
+[INFO ] 2023-06-14 18:49:28.547 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:49:28.548 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:49:28.743 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:49:28.746 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:54:18.106 [main] Main - Starting Main using Java 19.0.1 with PID 14664 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:54:18.113 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:54:18.116 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:54:27.095 [main] Main - Started Main in 9.563 seconds (process running for 11.216)
+[INFO ] 2023-06-14 18:54:39.097 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:54:39.100 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:54:39.488 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:54:39.497 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 18:55:44.306 [main] Main - Starting Main using Java 19.0.1 with PID 13164 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 18:55:44.312 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 18:55:44.314 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 18:55:52.385 [main] Main - Started Main in 8.615 seconds (process running for 10.142)
+[INFO ] 2023-06-14 18:56:00.803 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 18:56:00.805 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 18:56:01.195 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 18:56:01.202 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:01:24.306 [main] Main - Starting Main using Java 19.0.1 with PID 112 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:01:24.312 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:01:24.314 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:01:32.905 [main] Main - Started Main in 9.199 seconds (process running for 10.861)
+[INFO ] 2023-06-14 19:01:39.234 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:01:39.235 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:01:39.506 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:01:39.509 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:03:11.127 [main] Main - Starting Main using Java 19.0.1 with PID 12748 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:03:11.135 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:03:11.137 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:03:20.478 [main] Main - Started Main in 9.894 seconds (process running for 11.508)
+[INFO ] 2023-06-14 19:03:27.865 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:03:27.866 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:03:28.265 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:03:28.277 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:09:19.879 [main] Main - Starting Main using Java 19.0.1 with PID 10556 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:09:19.887 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:09:19.890 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:09:30.071 [main] Main - Started Main in 10.773 seconds (process running for 12.426)
+[INFO ] 2023-06-14 19:09:38.508 [main] Main - Starting Main using Java 19.0.1 with PID 760 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:09:38.516 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:09:38.517 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:09:47.742 [main] Main - Started Main in 9.894 seconds (process running for 11.58)
+[INFO ] 2023-06-14 19:10:00.961 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:10:00.965 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:10:01.297 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:10:01.304 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:11:38.301 [main] Main - Starting Main using Java 19.0.1 with PID 16876 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:11:38.308 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:11:38.310 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:11:48.238 [main] Main - Started Main in 10.602 seconds (process running for 12.762)
+[INFO ] 2023-06-14 19:11:54.216 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:11:54.217 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:11:54.450 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:11:54.454 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:21:11.422 [main] Main - Starting Main using Java 19.0.1 with PID 20160 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:21:11.429 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:21:11.431 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:21:25.156 [main] Main - Started Main in 14.424 seconds (process running for 17.118)
+[INFO ] 2023-06-14 19:21:26.990 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:21:26.993 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:21:27.355 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:21:27.364 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:25:59.532 [main] Main - Starting Main using Java 19.0.1 with PID 2016 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:25:59.539 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:25:59.541 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:26:10.006 [main] Main - Started Main in 11.183 seconds (process running for 13.13)
+[INFO ] 2023-06-14 19:27:34.898 [main] Main - Starting Main using Java 19.0.1 with PID 1664 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:27:34.930 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:27:34.933 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:27:46.394 [main] Main - Started Main in 12.227 seconds (process running for 14.624)
+[INFO ] 2023-06-14 19:27:53.846 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:27:53.849 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:27:54.219 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:27:54.227 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:28:40.945 [main] Main - Starting Main using Java 19.0.1 with PID 9444 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:28:40.952 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:28:40.956 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:28:51.163 [main] Main - Started Main in 10.912 seconds (process running for 12.661)
+[INFO ] 2023-06-14 19:29:03.951 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:29:03.954 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:29:04.242 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:29:04.249 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:29:27.413 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:29:27.413 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:29:27.467 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:29:27.477 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:29:27.616 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:29:27.624 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:29:27.645 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:29:27.645 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:29:27.652 [http-nio-8080-exec-5] SubjectService - Subject saved Successfully
+[INFO ] 2023-06-14 19:29:27.664 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:29:27.664 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:29:27.670 [http-nio-8080-exec-5] SubjectService - Subject saved Successfully
+[INFO ] 2023-06-14 19:29:27.739 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:29:27.766 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:29:27.766 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:29:27.844 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:29:27.845 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:32:44.385 [main] Main - Starting Main using Java 19.0.1 with PID 19340 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:32:44.393 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:32:44.399 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:32:59.229 [main] Main - Started Main in 15.491 seconds (process running for 17.57)
+[INFO ] 2023-06-14 19:33:08.368 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:33:08.372 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:33:09.020 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:33:09.030 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:33:40.241 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:33:40.242 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:33:40.309 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:33:40.322 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:33:40.461 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:33:40.469 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:33:40.494 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:33:40.494 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:33:40.505 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 19:33:40.568 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:33:40.594 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:33:40.594 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:33:40.664 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:33:40.664 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:34:05.706 [http-nio-8080-exec-9] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:34:05.706 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:34:05.732 [http-nio-8080-exec-9] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:34:05.732 [http-nio-8080-exec-9] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:34:32.639 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:34:32.639 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:34:32.650 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:34:32.658 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:34:32.672 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:34:32.679 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:34:32.693 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:34:32.693 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:34:32.701 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 19:34:32.702 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:34:32.702 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:34:32.710 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 19:34:32.732 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:34:32.752 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:34:32.753 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:34:32.817 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:34:32.817 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:39:00.618 [main] Main - Starting Main using Java 19.0.1 with PID 1844 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:39:00.625 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:39:00.627 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:39:08.610 [main] Main - Started Main in 8.513 seconds (process running for 10.659)
+[INFO ] 2023-06-14 19:39:17.550 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:39:17.552 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:39:17.701 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:39:17.704 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:41:32.302 [main] Main - Starting Main using Java 19.0.1 with PID 20076 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:41:32.307 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:41:32.309 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:41:39.608 [main] Main - Started Main in 7.834 seconds (process running for 9.253)
+[INFO ] 2023-06-14 19:42:00.332 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:42:00.332 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:42:00.535 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:42:00.539 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:42:51.897 [http-nio-8080-exec-10] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:42:51.897 [http-nio-8080-exec-10] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:42:51.917 [http-nio-8080-exec-10] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:42:51.921 [http-nio-8080-exec-10] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:42:51.967 [http-nio-8080-exec-10] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:42:51.969 [http-nio-8080-exec-10] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:42:51.977 [http-nio-8080-exec-10] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:42:51.978 [http-nio-8080-exec-10] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:42:51.980 [http-nio-8080-exec-10] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 19:42:51.995 [http-nio-8080-exec-10] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:42:52.005 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:42:52.005 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:42:52.024 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:42:52.024 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:43:05.766 [main] Main - Starting Main using Java 19.0.1 with PID 20392 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:43:05.771 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:43:05.771 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:43:12.557 [main] Main - Started Main in 7.286 seconds (process running for 8.501)
+[INFO ] 2023-06-14 19:43:22.409 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:43:22.409 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:43:22.559 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:43:22.562 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:44:17.718 [http-nio-8080-exec-9] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:44:17.719 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:44:17.765 [http-nio-8080-exec-9] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:44:17.765 [http-nio-8080-exec-9] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:44:41.558 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:44:41.558 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:44:41.593 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:44:41.597 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:44:41.653 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:44:41.658 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:44:41.665 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:44:41.665 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:44:41.667 [http-nio-8080-exec-5] SubjectService - Subject saved Successfully
+[INFO ] 2023-06-14 19:44:41.693 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:44:41.704 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:44:41.704 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:44:41.720 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:44:41.720 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:47:12.086 [main] Main - Starting Main using Java 19.0.1 with PID 14560 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:47:12.091 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:47:12.092 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:47:18.548 [main] Main - Started Main in 6.911 seconds (process running for 8.146)
+[INFO ] 2023-06-14 19:47:29.747 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:47:29.748 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:47:29.889 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:47:29.892 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:47:53.462 [main] Main - Starting Main using Java 19.0.1 with PID 5080 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:47:53.469 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:47:53.472 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:48:00.722 [main] Main - Started Main in 7.82 seconds (process running for 9.224)
+[INFO ] 2023-06-14 19:48:10.619 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:48:10.620 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:48:10.819 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:48:10.822 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:48:51.003 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 19:48:51.004 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 19:48:51.022 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 19:48:51.025 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 19:48:51.071 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 19:48:51.073 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 19:48:51.082 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 19:48:51.083 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 19:48:51.085 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 19:48:51.108 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 19:48:51.118 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:48:51.118 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:48:51.135 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:48:51.135 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:52:03.738 [main] Main - Starting Main using Java 19.0.1 with PID 20896 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 19:52:03.748 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 19:52:03.751 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 19:52:13.018 [main] Main - Started Main in 10.006 seconds (process running for 11.336)
+[INFO ] 2023-06-14 19:54:18.808 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:54:18.810 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:54:18.970 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:54:18.972 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:55:20.052 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:55:20.054 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:55:20.102 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:55:20.103 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 19:55:24.880 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 19:55:24.880 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 19:55:24.896 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 19:55:24.896 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:01:10.260 [main] Main - Starting Main using Java 19.0.1 with PID 21204 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:01:10.266 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:01:10.267 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:01:16.637 [main] Main - Started Main in 6.858 seconds (process running for 8.207)
+[INFO ] 2023-06-14 20:01:29.886 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:01:29.887 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:01:30.136 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:01:30.141 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:03:24.926 [main] Main - Starting Main using Java 19.0.1 with PID 14672 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:03:24.936 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:03:24.937 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:03:31.883 [main] Main - Started Main in 7.565 seconds (process running for 9.223)
+[INFO ] 2023-06-14 20:03:44.809 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:03:44.810 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:03:44.968 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:03:44.971 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:10:38.012 [main] Main - Starting Main using Java 19.0.1 with PID 12304 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:10:38.016 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:10:38.018 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:10:44.393 [main] Main - Started Main in 6.984 seconds (process running for 8.32)
+[INFO ] 2023-06-14 20:10:56.032 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:10:56.033 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:10:56.282 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:10:56.286 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:11:06.192 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:11:06.193 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:11:06.210 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:11:06.211 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:32:32.882 [main] Main - Starting Main using Java 19.0.1 with PID 10144 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:32:32.887 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:32:32.889 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:32:40.357 [main] Main - Started Main in 7.957 seconds (process running for 9.356)
+[INFO ] 2023-06-14 20:32:54.839 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:32:54.840 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:32:54.916 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:32:54.916 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:34:03.214 [main] Main - Starting Main using Java 19.0.1 with PID 19204 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:34:03.219 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:34:03.221 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:34:09.760 [main] Main - Started Main in 7.002 seconds (process running for 8.459)
+[INFO ] 2023-06-14 20:34:58.574 [main] Main - Starting Main using Java 19.0.1 with PID 6412 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:34:58.579 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:34:58.581 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:35:06.287 [main] Main - Started Main in 8.238 seconds (process running for 9.71)
+[INFO ] 2023-06-14 20:35:15.997 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:35:15.998 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:35:16.102 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:35:16.102 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:36:07.478 [main] Main - Starting Main using Java 19.0.1 with PID 16776 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:36:07.482 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:36:07.484 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:36:13.385 [main] Main - Started Main in 6.333 seconds (process running for 7.539)
+[INFO ] 2023-06-14 20:36:16.217 [main] Main - Starting Main using Java 19.0.1 with PID 21124 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:36:16.222 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:36:16.224 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:36:22.145 [main] Main - Started Main in 6.354 seconds (process running for 7.579)
+[INFO ] 2023-06-14 20:36:30.305 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:36:30.306 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:36:30.384 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:36:30.385 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:36:48.787 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 20:36:48.787 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 20:36:48.806 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 20:36:48.826 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 20:36:48.867 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 20:36:48.872 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 20:36:48.881 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:36:48.881 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:36:48.883 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:36:48.907 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 20:36:48.918 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:36:48.918 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:36:48.938 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:36:48.938 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:37:22.467 [http-nio-8080-exec-10] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 20:37:22.467 [http-nio-8080-exec-10] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 20:37:22.472 [http-nio-8080-exec-10] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 20:37:22.475 [http-nio-8080-exec-10] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 20:37:22.482 [http-nio-8080-exec-10] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 20:37:22.486 [http-nio-8080-exec-10] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 20:37:22.491 [http-nio-8080-exec-10] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:37:22.491 [http-nio-8080-exec-10] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:37:22.495 [http-nio-8080-exec-10] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:37:22.495 [http-nio-8080-exec-10] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:37:22.495 [http-nio-8080-exec-10] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:37:22.498 [http-nio-8080-exec-10] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:37:22.498 [http-nio-8080-exec-10] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:37:22.498 [http-nio-8080-exec-10] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:37:22.500 [http-nio-8080-exec-10] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:37:22.509 [http-nio-8080-exec-10] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 20:37:22.514 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:37:22.514 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:37:22.551 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:37:22.551 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:37:57.602 [http-nio-8080-exec-4] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 20:37:57.602 [http-nio-8080-exec-4] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 20:37:57.607 [http-nio-8080-exec-4] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 20:37:57.610 [http-nio-8080-exec-4] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 20:37:57.614 [http-nio-8080-exec-4] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 20:37:57.617 [http-nio-8080-exec-4] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 20:37:57.621 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:37:57.622 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:37:57.624 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:37:57.628 [http-nio-8080-exec-4] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 20:37:57.633 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:37:57.633 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:37:57.647 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:37:57.647 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:38:28.638 [http-nio-8080-exec-9] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 20:38:28.638 [http-nio-8080-exec-9] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 20:38:28.641 [http-nio-8080-exec-9] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 20:38:28.643 [http-nio-8080-exec-9] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 20:38:28.648 [http-nio-8080-exec-9] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 20:38:28.650 [http-nio-8080-exec-9] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 20:38:28.655 [http-nio-8080-exec-9] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:38:28.655 [http-nio-8080-exec-9] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:38:28.657 [http-nio-8080-exec-9] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:38:28.662 [http-nio-8080-exec-9] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 20:38:28.667 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:38:28.667 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:38:28.681 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:38:28.681 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:39:10.826 [main] Main - Starting Main using Java 19.0.1 with PID 14760 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:39:10.830 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:39:10.831 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:39:16.630 [main] Main - Started Main in 6.211 seconds (process running for 7.464)
+[INFO ] 2023-06-14 20:39:23.570 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:39:23.572 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:39:23.728 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:39:23.731 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:42:02.324 [main] Main - Starting Main using Java 19.0.1 with PID 12480 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:42:02.329 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:42:02.331 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:42:09.943 [main] Main - Started Main in 8.41 seconds (process running for 10.211)
+[INFO ] 2023-06-14 20:42:22.698 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:42:22.699 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:42:22.855 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:42:22.857 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:45:26.000 [main] Main - Starting Main using Java 19.0.1 with PID 752 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:45:26.004 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:45:26.006 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:45:32.675 [main] Main - Started Main in 7.164 seconds (process running for 8.427)
+[INFO ] 2023-06-14 20:45:44.398 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:45:44.400 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:45:44.573 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:45:44.576 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:46:11.072 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 20:46:11.073 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 20:46:11.094 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 20:46:11.098 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 20:46:11.164 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 20:46:11.166 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 20:46:11.173 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:46:11.174 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:46:11.176 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:46:11.176 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 20:46:11.176 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 20:46:11.178 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 20:46:11.197 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 20:46:11.205 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:46:11.206 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:46:11.230 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:46:11.231 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:46:55.232 [main] Main - Starting Main using Java 19.0.1 with PID 21144 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:46:55.237 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:46:55.238 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:47:01.207 [main] Main - Started Main in 6.425 seconds (process running for 7.566)
+[INFO ] 2023-06-14 20:47:08.986 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:47:08.986 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:47:09.151 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:47:09.152 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:47:31.040 [main] Main - Starting Main using Java 19.0.1 with PID 4900 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:47:31.045 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:47:31.046 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:47:38.683 [main] Main - Started Main in 8.079 seconds (process running for 9.26)
+[INFO ] 2023-06-14 20:47:45.404 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:47:45.405 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:47:45.565 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:47:45.568 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:49:15.152 [main] Main - Starting Main using Java 19.0.1 with PID 20996 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:49:15.156 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:49:15.158 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:49:22.044 [main] Main - Started Main in 7.353 seconds (process running for 8.717)
+[INFO ] 2023-06-14 20:49:28.787 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:49:28.788 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:49:28.958 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:49:28.960 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:54:29.347 [main] Main - Starting Main using Java 19.0.1 with PID 9608 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:54:29.356 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:54:29.358 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:54:36.056 [main] Main - Started Main in 7.294 seconds (process running for 8.593)
+[INFO ] 2023-06-14 20:54:39.288 [main] Main - Starting Main using Java 19.0.1 with PID 4240 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:54:39.292 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:54:39.294 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:54:47.894 [main] Main - Started Main in 9.003 seconds (process running for 10.228)
+[INFO ] 2023-06-14 20:55:41.089 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:55:41.096 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:55:41.908 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:55:41.916 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:55:46.130 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-14 20:55:46.190 [http-nio-8080-exec-3] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-14 20:55:46.466 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:55:46.466 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:55:46.556 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:55:46.557 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:58:27.694 [main] Main - Starting Main using Java 19.0.1 with PID 13020 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 20:58:27.701 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 20:58:27.702 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 20:58:37.749 [main] Main - Started Main in 10.668 seconds (process running for 12.672)
+[INFO ] 2023-06-14 20:58:42.858 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:58:42.859 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:58:43.116 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:58:43.121 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 20:58:47.291 [http-nio-8080-exec-7] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-14 20:58:47.341 [http-nio-8080-exec-7] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-14 20:58:47.542 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 20:58:47.543 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 20:58:47.592 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 20:58:47.593 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 21:01:39.183 [main] Main - Starting Main using Java 19.0.1 with PID 2108 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-14 21:01:39.190 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-14 21:01:39.192 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-14 21:01:49.280 [main] Main - Started Main in 10.768 seconds (process running for 12.401)
+[INFO ] 2023-06-14 21:02:08.469 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 21:02:08.476 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 21:02:09.219 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 21:02:09.232 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 21:02:13.919 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-14 21:02:13.949 [http-nio-8080-exec-4] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-14 21:02:14.114 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 21:02:14.114 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 21:02:14.158 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 21:02:14.158 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 21:18:33.212 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-14 21:18:33.608 [http-nio-8080-exec-9] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-14 21:18:33.811 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 21:18:33.826 [http-nio-8080-exec-8] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 21:18:33.911 [http-nio-8080-exec-8] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 21:18:33.911 [http-nio-8080-exec-8] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-14 21:19:24.781 [http-nio-8080-exec-4] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-14 21:19:24.781 [http-nio-8080-exec-4] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-14 21:19:24.929 [http-nio-8080-exec-4] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-14 21:19:24.944 [http-nio-8080-exec-4] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-14 21:19:25.053 [http-nio-8080-exec-4] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-14 21:19:25.063 [http-nio-8080-exec-4] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-14 21:19:25.073 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 21:19:25.074 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 21:19:25.081 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 21:19:25.081 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-14 21:19:25.081 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-14 21:19:25.085 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-14 21:19:25.126 [http-nio-8080-exec-4] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-14 21:19:25.142 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-14 21:19:25.142 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-14 21:19:25.173 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-14 21:19:25.173 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:14:21.060 [main] Main - Starting Main using Java 19.0.1 with PID 2564 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:14:21.067 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:14:21.070 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:14:30.802 [main] Main - Started Main in 10.345 seconds (process running for 12.049)
+[INFO ] 2023-06-15 00:14:46.638 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:14:46.641 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:14:47.137 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:14:47.144 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:16:26.734 [main] Main - Starting Main using Java 19.0.1 with PID 14928 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:16:26.741 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:16:26.743 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:16:37.639 [main] Main - Started Main in 11.476 seconds (process running for 13.248)
+[INFO ] 2023-06-15 00:16:47.607 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:16:47.610 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:16:47.927 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:16:47.934 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:17:31.848 [main] Main - Starting Main using Java 19.0.1 with PID 11888 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:17:31.853 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:17:31.855 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:17:42.764 [main] Main - Started Main in 11.503 seconds (process running for 13.078)
+[INFO ] 2023-06-15 00:17:49.107 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:17:49.109 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:17:49.323 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:17:49.327 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:24:15.769 [main] Main - Starting Main using Java 19.0.1 with PID 6376 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:24:15.789 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:24:15.792 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:24:26.638 [main] Main - Started Main in 11.582 seconds (process running for 13.772)
+[INFO ] 2023-06-15 00:24:36.171 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:24:36.175 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:24:36.735 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:24:36.737 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:26:56.810 [main] Main - Starting Main using Java 19.0.1 with PID 21104 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:26:56.816 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:26:56.817 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:27:06.294 [main] Main - Started Main in 10.118 seconds (process running for 11.746)
+[INFO ] 2023-06-15 00:27:15.508 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:27:15.511 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:27:16.099 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:27:16.111 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:28:06.731 [main] Main - Starting Main using Java 19.0.1 with PID 5328 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:28:06.736 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:28:06.738 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:28:16.048 [main] Main - Started Main in 9.896 seconds (process running for 11.3)
+[INFO ] 2023-06-15 00:28:26.036 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:28:26.039 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:28:26.421 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:28:26.426 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:30:23.610 [main] Main - Starting Main using Java 19.0.1 with PID 5724 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:30:23.617 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:30:23.619 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:30:34.105 [main] Main - Started Main in 11.108 seconds (process running for 12.918)
+[INFO ] 2023-06-15 00:30:40.070 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:30:40.072 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:30:40.445 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:30:40.453 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:32:40.400 [main] Main - Starting Main using Java 19.0.1 with PID 23404 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:32:40.406 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:32:40.409 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:32:49.641 [main] Main - Started Main in 9.908 seconds (process running for 12.209)
+[INFO ] 2023-06-15 00:32:58.574 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:32:58.576 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:32:58.966 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:32:58.972 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:33:23.840 [http-nio-8080-exec-5] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-15 00:33:23.840 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-15 00:37:12.164 [main] Main - Starting Main using Java 19.0.1 with PID 20880 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:37:12.172 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:37:12.173 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:37:21.444 [main] Main - Started Main in 9.885 seconds (process running for 11.887)
+[INFO ] 2023-06-15 00:37:28.019 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:37:28.023 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:37:28.494 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:37:28.499 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:39:01.743 [main] Main - Starting Main using Java 19.0.1 with PID 19232 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:39:01.751 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:39:01.753 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:39:13.624 [main] Main - Started Main in 12.658 seconds (process running for 14.292)
+[INFO ] 2023-06-15 00:39:25.911 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:39:25.915 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:39:26.289 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:39:26.294 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:41:19.006 [main] Main - Starting Main using Java 19.0.1 with PID 19644 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:41:19.011 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:41:19.013 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:41:29.412 [main] Main - Started Main in 10.992 seconds (process running for 13.015)
+[INFO ] 2023-06-15 00:41:44.757 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:41:44.762 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:41:45.284 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:41:45.293 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:43:42.124 [main] Main - Starting Main using Java 19.0.1 with PID 23040 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:43:42.130 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:43:42.133 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:43:50.310 [main] Main - Started Main in 8.823 seconds (process running for 10.406)
+[INFO ] 2023-06-15 00:44:03.904 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:44:03.906 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:44:04.234 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:44:04.239 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 00:49:04.095 [main] Main - Starting Main using Java 19.0.1 with PID 19992 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 00:49:04.103 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 00:49:04.105 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 00:49:15.926 [main] Main - Started Main in 12.476 seconds (process running for 14.416)
+[INFO ] 2023-06-15 00:49:23.176 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 00:49:23.179 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 00:49:23.538 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 00:49:23.543 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:03:29.597 [main] Main - Starting Main using Java 19.0.1 with PID 13732 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:03:29.611 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:03:29.614 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:03:42.880 [main] Main - Started Main in 14.186 seconds (process running for 16.716)
+[INFO ] 2023-06-15 08:04:19.075 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:04:19.077 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:04:19.397 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:04:19.402 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:05:12.578 [main] Main - Starting Main using Java 19.0.1 with PID 4664 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:05:12.584 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:05:12.592 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:05:20.533 [main] Main - Started Main in 8.555 seconds (process running for 10.952)
+[INFO ] 2023-06-15 08:05:27.734 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:05:27.736 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:05:27.861 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:05:27.863 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:29:46.545 [main] Main - Starting Main using Java 19.0.1 with PID 14120 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:29:46.551 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:29:46.553 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:29:53.440 [main] Main - Started Main in 7.47 seconds (process running for 8.841)
+[INFO ] 2023-06-15 08:30:00.845 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:30:00.848 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:30:00.980 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:30:00.982 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:30:20.171 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:30:20.171 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:30:20.193 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:30:20.193 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:32:20.398 [main] Main - Starting Main using Java 19.0.1 with PID 19636 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:32:20.402 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:32:20.404 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:32:26.143 [main] Main - Started Main in 6.188 seconds (process running for 7.316)
+[INFO ] 2023-06-15 08:32:38.126 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:32:38.128 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:32:38.388 [http-nio-8080-exec-4] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:32:38.391 [http-nio-8080-exec-4] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:33:07.762 [main] Main - Starting Main using Java 19.0.1 with PID 20648 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:33:07.767 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:33:07.768 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:33:14.853 [main] Main - Started Main in 7.505 seconds (process running for 8.65)
+[INFO ] 2023-06-15 08:33:22.503 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:33:22.504 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:33:22.619 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:33:22.622 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:34:27.297 [main] Main - Starting Main using Java 19.0.1 with PID 22604 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:34:27.302 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:34:27.303 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:34:33.125 [main] Main - Started Main in 6.24 seconds (process running for 7.506)
+[INFO ] 2023-06-15 08:34:39.857 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:34:39.858 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:34:39.982 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:34:39.984 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:35:11.002 [main] Main - Starting Main using Java 19.0.1 with PID 23412 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:35:11.006 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:35:11.008 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:35:16.961 [main] Main - Started Main in 6.396 seconds (process running for 7.685)
+[INFO ] 2023-06-15 08:35:24.874 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:35:24.875 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:35:24.992 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:35:24.994 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:36:18.928 [main] Main - Starting Main using Java 19.0.1 with PID 12584 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:36:18.932 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:36:18.934 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:36:25.331 [main] Main - Started Main in 6.855 seconds (process running for 7.983)
+[INFO ] 2023-06-15 08:36:32.679 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:36:32.680 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:36:32.794 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:36:32.796 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:38:56.313 [main] Main - Starting Main using Java 19.0.1 with PID 20028 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:38:56.316 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:38:56.318 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:39:01.724 [main] Main - Started Main in 5.848 seconds (process running for 6.929)
+[INFO ] 2023-06-15 08:39:16.088 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:39:16.089 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:39:16.210 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:39:16.212 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:39:56.035 [main] Main - Starting Main using Java 19.0.1 with PID 17304 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:39:56.040 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:39:56.041 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:40:01.587 [main] Main - Started Main in 5.973 seconds (process running for 7.207)
+[INFO ] 2023-06-15 08:40:19.285 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:40:19.288 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:40:19.411 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:40:19.413 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:41:35.778 [main] Main - Starting Main using Java 19.0.1 with PID 20448 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 08:41:35.783 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 08:41:35.785 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 08:41:41.638 [main] Main - Started Main in 6.3 seconds (process running for 7.438)
+[INFO ] 2023-06-15 08:41:46.661 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:41:46.662 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:41:46.794 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:41:46.796 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:41:59.887 [http-nio-8080-exec-5] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-15 08:41:59.887 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-15 08:41:59.894 [http-nio-8080-exec-5] StudentServiceImpl - fetching student Details by studentID
+[INFO ] 2023-06-15 08:41:59.894 [http-nio-8080-exec-5] StudentServiceImpl - Student Details fetched successfully
+[INFO ] 2023-06-15 08:41:59.894 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 08:41:59.915 [http-nio-8080-exec-5] AddressServiceImpl - Address already Exists
+[INFO ] 2023-06-15 08:41:59.916 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 08:41:59.919 [http-nio-8080-exec-5] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-15 08:41:59.919 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 08:41:59.919 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 08:41:59.921 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 08:42:00.010 [http-nio-8080-exec-5] StudentServiceImpl - Student Details updated Successfully
+[INFO ] 2023-06-15 08:42:00.018 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:42:00.018 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:42:00.030 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:42:00.030 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:42:06.886 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-15 08:42:06.892 [http-nio-8080-exec-9] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-15 08:42:06.917 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:42:06.917 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:42:06.923 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:42:06.923 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:46:43.540 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 08:46:43.542 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 08:46:43.563 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 08:46:43.574 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-15 08:46:43.662 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 08:46:43.669 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-15 08:46:43.687 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 08:46:43.688 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 08:46:43.695 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 08:46:43.696 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 08:46:43.696 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 08:46:43.703 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 08:46:43.703 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 08:46:43.704 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 08:46:43.712 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 08:46:43.748 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-15 08:46:43.765 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:46:43.765 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:46:43.812 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:46:43.812 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:50:50.085 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:50:50.085 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:50:50.136 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:50:50.137 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:52:40.823 [http-nio-8080-exec-8] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:52:40.824 [http-nio-8080-exec-8] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:52:40.871 [http-nio-8080-exec-8] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:52:40.871 [http-nio-8080-exec-8] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:54:06.619 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:54:06.632 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:54:06.772 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:54:06.772 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:54:40.016 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:54:40.017 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:54:40.075 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:54:40.075 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 08:59:25.183 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 08:59:25.199 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 08:59:25.386 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 08:59:25.387 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:15:32.016 [main] Main - Starting Main using Java 19.0.1 with PID 8224 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:15:32.023 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:15:32.025 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:15:41.484 [main] Main - Started Main in 10.239 seconds (process running for 12.53)
+[INFO ] 2023-06-15 09:15:46.261 [main] Main - Starting Main using Java 19.0.1 with PID 13368 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:15:46.268 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:15:46.271 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:15:57.058 [main] Main - Started Main in 11.428 seconds (process running for 13.095)
+[INFO ] 2023-06-15 09:16:07.717 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:16:07.720 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:16:08.113 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:16:08.120 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:16:15.220 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-15 09:16:15.262 [http-nio-8080-exec-3] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-15 09:16:15.489 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:16:15.489 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:16:15.516 [http-nio-8080-exec-4] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:16:15.516 [http-nio-8080-exec-4] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:16:19.619 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-15 09:16:19.639 [http-nio-8080-exec-5] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-15 09:16:19.674 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:16:19.675 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:16:19.692 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:16:19.693 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:16:44.946 [http-nio-8080-exec-10] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 09:16:44.947 [http-nio-8080-exec-10] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 09:16:45.023 [http-nio-8080-exec-10] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:16:45.033 [http-nio-8080-exec-10] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-15 09:16:45.084 [http-nio-8080-exec-10] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:16:45.093 [http-nio-8080-exec-10] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-15 09:16:45.104 [http-nio-8080-exec-10] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:16:45.105 [http-nio-8080-exec-10] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:16:45.112 [http-nio-8080-exec-10] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:16:45.140 [http-nio-8080-exec-10] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-15 09:16:45.156 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:16:45.157 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:16:45.187 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:16:45.187 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:24:18.793 [main] Main - Starting Main using Java 19.0.1 with PID 22140 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:24:18.801 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:24:18.803 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:24:28.913 [main] Main - Started Main in 10.795 seconds (process running for 12.947)
+[INFO ] 2023-06-15 09:24:38.097 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:24:38.099 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:24:38.313 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:24:38.317 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:25:42.702 [main] Main - Starting Main using Java 19.0.1 with PID 3560 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:25:42.709 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:25:42.711 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:25:52.757 [main] Main - Started Main in 10.719 seconds (process running for 12.708)
+[INFO ] 2023-06-15 09:26:01.013 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:26:01.014 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:26:01.256 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:26:01.260 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:27:07.855 [main] Main - Starting Main using Java 19.0.1 with PID 20916 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:27:07.862 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:27:07.865 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:27:17.106 [main] Main - Started Main in 9.93 seconds (process running for 11.72)
+[INFO ] 2023-06-15 09:29:48.584 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:29:48.586 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:29:48.855 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:29:48.860 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:30:24.529 [http-nio-8080-exec-4] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 09:30:24.529 [http-nio-8080-exec-4] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 09:30:32.652 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:30:32.653 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:30:32.695 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:30:32.695 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:30:54.215 [http-nio-8080-exec-9] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 09:30:54.216 [http-nio-8080-exec-9] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 09:30:54.227 [http-nio-8080-exec-9] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:30:54.239 [http-nio-8080-exec-9] AddressServiceImpl - Address already Exists
+[INFO ] 2023-06-15 09:30:54.239 [http-nio-8080-exec-9] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:30:54.250 [http-nio-8080-exec-9] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-15 09:30:54.421 [http-nio-8080-exec-9] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:30:54.422 [http-nio-8080-exec-9] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:30:54.430 [http-nio-8080-exec-9] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:30:54.508 [http-nio-8080-exec-9] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-15 09:30:54.539 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:30:54.540 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:30:54.587 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:30:54.587 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:41:15.441 [main] Main - Starting Main using Java 19.0.1 with PID 21636 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:41:15.448 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:41:15.450 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:41:26.278 [main] Main - Started Main in 11.562 seconds (process running for 13.548)
+[INFO ] 2023-06-15 09:41:42.055 [http-nio-8080-exec-2] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:41:42.057 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:41:42.478 [http-nio-8080-exec-2] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:41:42.485 [http-nio-8080-exec-2] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:42:02.570 [http-nio-8080-exec-5] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 09:42:02.570 [http-nio-8080-exec-5] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 09:42:02.639 [http-nio-8080-exec-5] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:42:02.649 [http-nio-8080-exec-5] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-15 09:42:02.755 [http-nio-8080-exec-5] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:42:02.760 [http-nio-8080-exec-5] DepartmentServiceImpl - Department saved successfully
+[INFO ] 2023-06-15 09:42:02.780 [http-nio-8080-exec-5] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:42:02.780 [http-nio-8080-exec-5] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:42:02.786 [http-nio-8080-exec-5] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:42:02.826 [http-nio-8080-exec-5] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-15 09:42:02.846 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:42:02.847 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:42:02.899 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:42:02.899 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:44:33.003 [main] Main - Starting Main using Java 19.0.1 with PID 12692 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:44:33.010 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:44:33.012 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:44:43.347 [main] Main - Started Main in 11.008 seconds (process running for 12.844)
+[INFO ] 2023-06-15 09:44:53.140 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:44:53.143 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:44:53.458 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:44:53.467 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:44:57.322 [http-nio-8080-exec-2] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-15 09:44:57.354 [http-nio-8080-exec-2] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-15 09:44:57.529 [http-nio-8080-exec-3] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:44:57.529 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:44:57.580 [http-nio-8080-exec-3] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:44:57.581 [http-nio-8080-exec-3] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:45:13.131 [http-nio-8080-exec-6] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-15 09:45:13.132 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-15 09:45:13.150 [http-nio-8080-exec-6] StudentServiceImpl - fetching student Details by studentID
+[INFO ] 2023-06-15 09:45:13.150 [http-nio-8080-exec-6] StudentServiceImpl - Student Details fetched successfully
+[INFO ] 2023-06-15 09:45:13.151 [http-nio-8080-exec-6] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:45:13.212 [http-nio-8080-exec-6] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-15 09:45:13.248 [http-nio-8080-exec-6] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:45:13.255 [http-nio-8080-exec-6] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-15 09:45:13.255 [http-nio-8080-exec-6] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:45:13.255 [http-nio-8080-exec-6] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:45:13.261 [http-nio-8080-exec-6] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:45:13.291 [http-nio-8080-exec-6] StudentServiceImpl - Student Details updated Successfully
+[INFO ] 2023-06-15 09:45:13.301 [http-nio-8080-exec-7] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:45:13.301 [http-nio-8080-exec-7] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:45:13.335 [http-nio-8080-exec-7] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:45:13.335 [http-nio-8080-exec-7] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:46:46.221 [main] Main - Starting Main using Java 19.0.1 with PID 18348 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:46:46.228 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:46:46.230 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:46:57.333 [main] Main - Started Main in 12.039 seconds (process running for 13.893)
+[INFO ] 2023-06-15 09:47:08.256 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:47:08.259 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:47:08.575 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:47:08.582 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:47:26.074 [main] Main - Starting Main using Java 19.0.1 with PID 16252 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-15 09:47:26.080 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-15 09:47:26.083 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-15 09:47:35.383 [main] Main - Started Main in 9.968 seconds (process running for 11.739)
+[INFO ] 2023-06-15 09:47:44.128 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:47:44.130 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:47:44.372 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:47:44.374 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:47:57.709 [http-nio-8080-exec-4] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-15 09:47:57.710 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-15 09:47:57.730 [http-nio-8080-exec-4] StudentServiceImpl - fetching student Details by studentID
+[INFO ] 2023-06-15 09:47:57.731 [http-nio-8080-exec-4] StudentServiceImpl - Student Details fetched successfully
+[INFO ] 2023-06-15 09:47:57.731 [http-nio-8080-exec-4] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:47:57.801 [http-nio-8080-exec-4] AddressServiceImpl - Address already Exists
+[INFO ] 2023-06-15 09:47:57.801 [http-nio-8080-exec-4] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:47:57.809 [http-nio-8080-exec-4] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-15 09:47:57.810 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:47:57.810 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:47:57.820 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:47:57.994 [http-nio-8080-exec-4] StudentServiceImpl - Student Details updated Successfully
+[INFO ] 2023-06-15 09:47:58.022 [http-nio-8080-exec-5] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:47:58.023 [http-nio-8080-exec-5] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:47:58.078 [http-nio-8080-exec-5] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:47:58.079 [http-nio-8080-exec-5] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-15 09:48:23.843 [http-nio-8080-exec-8] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-15 09:48:23.844 [http-nio-8080-exec-8] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-15 09:48:23.859 [http-nio-8080-exec-8] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-15 09:48:23.868 [http-nio-8080-exec-8] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-15 09:48:23.920 [http-nio-8080-exec-8] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-15 09:48:23.927 [http-nio-8080-exec-8] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-15 09:48:23.928 [http-nio-8080-exec-8] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-15 09:48:23.928 [http-nio-8080-exec-8] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-15 09:48:23.936 [http-nio-8080-exec-8] SubjectService - Subject already Exists
+[INFO ] 2023-06-15 09:48:23.960 [http-nio-8080-exec-8] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-15 09:48:23.975 [http-nio-8080-exec-9] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-15 09:48:23.976 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-15 09:48:24.046 [http-nio-8080-exec-9] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-15 09:48:24.047 [http-nio-8080-exec-9] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-18 12:01:46.326 [main] Main - Starting Main using Java 19.0.1 with PID 9228 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-18 12:01:46.353 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-18 12:01:46.357 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-18 12:02:02.964 [main] Main - Started Main in 17.581 seconds (process running for 20.287)
+[INFO ] 2023-06-18 12:06:12.932 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-18 12:06:12.941 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-18 12:06:13.764 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-18 12:06:13.773 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-18 12:06:35.692 [http-nio-8080-exec-4] StudentResource - Entered into insertStudentsDetails method
+[INFO ] 2023-06-18 12:06:35.692 [http-nio-8080-exec-4] StudentServiceImpl - Entered into insertStudent method
+[INFO ] 2023-06-18 12:06:35.785 [http-nio-8080-exec-4] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-18 12:06:35.801 [http-nio-8080-exec-4] AddressServiceImpl - Address added Successfully
+[INFO ] 2023-06-18 12:06:35.991 [http-nio-8080-exec-4] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-18 12:06:36.007 [http-nio-8080-exec-4] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-18 12:06:36.008 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-18 12:06:36.009 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-18 12:06:36.020 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-18 12:06:36.021 [http-nio-8080-exec-4] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-18 12:06:36.021 [http-nio-8080-exec-4] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-18 12:06:36.029 [http-nio-8080-exec-4] SubjectService - Subject already Exists
+[INFO ] 2023-06-18 12:06:36.124 [http-nio-8080-exec-4] StudentServiceImpl - Student Details Inserted Successfully
+[INFO ] 2023-06-18 12:06:36.158 [http-nio-8080-exec-7] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-18 12:06:36.158 [http-nio-8080-exec-7] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-18 12:06:36.242 [http-nio-8080-exec-7] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-18 12:06:36.243 [http-nio-8080-exec-7] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-18 12:06:40.881 [http-nio-8080-exec-8] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-18 12:06:40.930 [http-nio-8080-exec-8] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-18 12:06:41.002 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-18 12:06:41.003 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-18 12:06:41.071 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-18 12:06:41.071 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-18 12:06:48.430 [http-nio-8080-exec-9] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-18 12:06:48.430 [http-nio-8080-exec-9] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-18 12:06:48.450 [http-nio-8080-exec-9] StudentServiceImpl - fetching student Details by studentID
+[INFO ] 2023-06-18 12:06:48.450 [http-nio-8080-exec-9] StudentServiceImpl - Student Details fetched successfully
+[INFO ] 2023-06-18 12:06:48.450 [http-nio-8080-exec-9] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-18 12:06:48.460 [http-nio-8080-exec-9] AddressServiceImpl - Address already Exists
+[INFO ] 2023-06-18 12:06:48.460 [http-nio-8080-exec-9] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-18 12:06:48.467 [http-nio-8080-exec-9] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-18 12:06:48.467 [http-nio-8080-exec-9] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-18 12:06:48.467 [http-nio-8080-exec-9] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-18 12:06:48.474 [http-nio-8080-exec-9] SubjectService - Subject already Exists
+[INFO ] 2023-06-18 12:06:48.523 [http-nio-8080-exec-9] StudentServiceImpl - Student Details updated Successfully
+[INFO ] 2023-06-18 12:06:48.539 [http-nio-8080-exec-10] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-18 12:06:48.540 [http-nio-8080-exec-10] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-18 12:06:48.596 [http-nio-8080-exec-10] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-18 12:06:48.596 [http-nio-8080-exec-10] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-20 13:18:33.002 [main] Main - Starting Main using Java 19.0.1 with PID 17000 (C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\BREVITAZ\JDBC_CRUD-thymeleaf)
+[DEBUG] 2023-06-20 13:18:33.014 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-20 13:18:33.019 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-20 13:18:47.876 [main] Main - Started Main in 15.849 seconds (process running for 18.162)
+[INFO ] 2023-06-21 13:32:44.742 [main] Main - Starting Main using Java 19.0.1 with PID 19024 (C:\Users\nayan patel\Desktop\Nayan\Projects\Students_Web\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\Projects\Students_Web)
+[DEBUG] 2023-06-21 13:32:44.752 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-21 13:32:44.756 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-21 13:33:02.047 [main] Main - Started Main in 18.297 seconds (process running for 21.259)
+[INFO ] 2023-06-21 13:33:09.834 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-21 13:33:09.837 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-21 13:33:10.419 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-21 13:33:10.431 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-21 13:33:15.144 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method deleteStudent()
+[INFO ] 2023-06-21 13:33:15.179 [http-nio-8080-exec-3] StudentServiceImpl - Student Details fetched Successfully
+[INFO ] 2023-06-21 13:33:15.394 [http-nio-8080-exec-6] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-21 13:33:15.394 [http-nio-8080-exec-6] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-21 13:33:15.440 [http-nio-8080-exec-6] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-21 13:33:15.441 [http-nio-8080-exec-6] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-21 14:00:44.579 [main] Main - Starting Main using Java 19.0.1 with PID 20232 (C:\Users\nayan patel\Desktop\Nayan\Projects\Students_Web\target\classes started by nayan patel in C:\Users\nayan patel\Desktop\Nayan\Projects\Students_Web)
+[DEBUG] 2023-06-21 14:00:44.595 [main] Main - Running with Spring Boot v3.0.5, Spring v6.0.7
+[INFO ] 2023-06-21 14:00:44.598 [main] Main - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-21 14:01:01.035 [main] Main - Started Main in 17.373 seconds (process running for 19.845)
+[INFO ] 2023-06-21 14:01:06.897 [http-nio-8080-exec-1] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-21 14:01:06.900 [http-nio-8080-exec-1] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-21 14:01:07.378 [http-nio-8080-exec-1] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-21 14:01:07.385 [http-nio-8080-exec-1] StudentServiceImpl - Student fetched successfully
+[INFO ] 2023-06-21 14:01:21.001 [http-nio-8080-exec-3] StudentResource - Entered into updateStudentDetails method
+[INFO ] 2023-06-21 14:01:21.002 [http-nio-8080-exec-3] StudentServiceImpl - Entered into the method updateDetails()
+[INFO ] 2023-06-21 14:01:21.018 [http-nio-8080-exec-3] StudentServiceImpl - fetching student Details by studentID
+[INFO ] 2023-06-21 14:01:21.019 [http-nio-8080-exec-3] StudentServiceImpl - Student Details fetched successfully
+[INFO ] 2023-06-21 14:01:21.019 [http-nio-8080-exec-3] AddressServiceImpl - Entered into addAddress Method
+[INFO ] 2023-06-21 14:01:21.080 [http-nio-8080-exec-3] AddressServiceImpl - Address already Exists
+[INFO ] 2023-06-21 14:01:21.081 [http-nio-8080-exec-3] DepartmentServiceImpl - Entered into addDepartment method
+[INFO ] 2023-06-21 14:01:21.088 [http-nio-8080-exec-3] DepartmentServiceImpl - Department already Exists
+[INFO ] 2023-06-21 14:01:21.088 [http-nio-8080-exec-3] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-21 14:01:21.089 [http-nio-8080-exec-3] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-21 14:01:21.095 [http-nio-8080-exec-3] SubjectService - Subject already Exists
+[INFO ] 2023-06-21 14:01:21.096 [http-nio-8080-exec-3] SubjectService - Entered into addSubject method
+[INFO ] 2023-06-21 14:01:21.096 [http-nio-8080-exec-3] SubjectService - fetching Subject by SubjectName
+[INFO ] 2023-06-21 14:01:21.101 [http-nio-8080-exec-3] SubjectService - Subject already Exists
+[INFO ] 2023-06-21 14:01:21.263 [http-nio-8080-exec-3] StudentServiceImpl - Student Details updated Successfully
+[INFO ] 2023-06-21 14:01:21.288 [http-nio-8080-exec-4] StudentResource - Entered into viewAll method
+[INFO ] 2023-06-21 14:01:21.288 [http-nio-8080-exec-4] StudentServiceImpl - Entered into the method getAll()
+[INFO ] 2023-06-21 14:01:21.327 [http-nio-8080-exec-4] StudentServiceImpl - Fetching the list of student
+[INFO ] 2023-06-21 14:01:21.328 [http-nio-8080-exec-4] StudentServiceImpl - Student fetched successfully

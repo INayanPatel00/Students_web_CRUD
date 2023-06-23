@@ -1,0 +1,81 @@
+
+
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/html">
+<head>
+  <title>Student Details</title>
+  <!--    <link rel="stylesheet" type="text/css" href="style.css">-->
+
+</head>
+<body>
+<h1>Student Details</h1>
+<form th:action="@{/students/insert}" th:method="post" th:object="${user}" th:id="form1">
+  <label for="firstName">First Name:</label>
+  <input type="text" id="firstName" th:field="*{firstName}" name="firstName" required
+         placeholder="Enter your FirstName"><br><br>
+
+  <label for="lastName">Last Name:</label>
+  <input type="text" id="lastName" th:field="*{lastName}" name="lastName" required
+         placeholder="Enter your LastName"><br><br>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" th:field="*{email}" name="email" required placeholder="Enter your Email"><br><br>
+
+  <label for="phone">Phone:</label>
+  <input type="tel" id="phone" th:field="*{phone}" name="phone" placeholder="Enter your phoneNumber"><br><br>
+
+
+  <label for="age">Age:</label>
+  <input type="number" id="age" th:field="*{age}" name="age" required placeholder="Enter your age"><br><br>
+
+  <label for="gender">Gender:</label>
+  <select name="gender" th:field="*{gender}" id="gender">
+    <option value="male">Male</option>
+    <option value="female">Female</option>
+    <option value="other">Other</option>
+  </select>
+
+  <label for="houseNo">House Number:</label>
+  <input type="text" id="houseNo" th:field="*{addressDTO.houseNo}" name="addressDTO.houseNo" required placeholder="Enter your houseNumber">
+  <br><br>
+
+  <label for="landMark">Landmark:</label>
+  <input type="text" id="landMark" th:field="*{addressDTO.landMark}" name="addressDTO.landMark" required
+         placeholder="Enter your LandMark"><br><br>
+
+  <label for="city">City:</label>
+  <input type="text" id="city" th:field="*{addressDTO.city}" name="addressDTO.city" required placeholder="Enter your CityName"><br><br>
+
+  <label for="state">State:</label>
+  <input type="text" id="state" th:field="*{addressDTO.state}" name="addressDTO.state" required placeholder="Enter your StateName"><br><br>
+
+  <label for="pinCode">Pincode:</label>
+  <input type="text" id="pinCode" th:field="*{addressDTO.pinCode}" name="addressDTO.pinCode" required
+         placeholder="Enter your PinCode"><br><br>
+
+
+  <label for="name">Department Name:</label>
+  <input type="text" id="name" th:field="*{departmentDTO.name}" name="departmentDTO.name" required
+         placeholder="Enter your DepartmentName"><br><br>
+
+
+  <th:block th:each="subject : ${subjects}">
+    <input id="'subject-'+${subject.id}" th:field="*{subjectDTOs}" type="checkbox" th:value="${subject.name}" />
+    <label for="'subject-'+${subject.id}">[[${subject.name}]]</label>
+    <br>
+  </th:block>
+
+  <button>Submit</button>
+
+</form>
+
+<script>
+    document.getElementById("phone").setAttribute("value","");
+    document.getElementById("age").setAttribute("value","");
+    document.getElementById("houseNo").setAttribute("value","");
+    document.getElementById("pinCode").setAttribute("value","");
+
+</script>
+
+</body>
+</html>
